@@ -1,0 +1,1 @@
+From March to May 2023, while based in the Bay Area, I conducted a company analysis of Optimal Dynamics, focusing on the use of Sequential Decision Analytics based on Stochastic Optimization and Learning.
